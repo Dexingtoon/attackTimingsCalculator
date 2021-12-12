@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/attackTimingsCalculator/static/css/main.df6ed6bd.chunk.css",
-    "main.js": "/attackTimingsCalculator/static/js/main.483d9ebe.chunk.js",
-    "main.js.map": "/attackTimingsCalculator/static/js/main.483d9ebe.chunk.js.map",
+    "main.js": "/attackTimingsCalculator/static/js/main.4ac7c4f3.chunk.js",
+    "main.js.map": "/attackTimingsCalculator/static/js/main.4ac7c4f3.chunk.js.map",
     "runtime-main.js": "/attackTimingsCalculator/static/js/runtime-main.e964cf2b.js",
     "runtime-main.js.map": "/attackTimingsCalculator/static/js/runtime-main.e964cf2b.js.map",
     "static/css/2.b02c1629.chunk.css": "/attackTimingsCalculator/static/css/2.b02c1629.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.b02c1629.chunk.css",
     "static/js/2.44c860d9.chunk.js",
     "static/css/main.df6ed6bd.chunk.css",
-    "static/js/main.483d9ebe.chunk.js"
+    "static/js/main.4ac7c4f3.chunk.js"
   ]
 }
